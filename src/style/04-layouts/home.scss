@@ -3,10 +3,14 @@
     &>div {
         margin-top: var(--spaceL);
         margin-bottom: var(--spaceL);
+        padding-left: var(--spaceL);
+        padding-right: var(--spaceL);
 
     }
 
     &__chapters>div {
         margin-bottom: var(--spaceM);
+
+
     }
 }
