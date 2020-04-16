@@ -8,3 +8,21 @@
 .a-indication--primary {
   color: var(--colorPrimary);
 }
+
+.a-indication--grey {
+  margin-top:var(--spaceS);
+  color: var(--colorTextMain);
+}
+.a-indication--green{
+  margin-top: var(--spaceS);
+  background:  var(--colorSuccessLight);
+  color: var(--successColorDark);
+  border-radius: var(--borderRadiusButton);
+  width: var(--buttonWidth);
+  height: var(--buttonHeight);
+  margin-left:var(--spaceM);
+  text-align:center;
+  padding-top:10px;
+
+}
+

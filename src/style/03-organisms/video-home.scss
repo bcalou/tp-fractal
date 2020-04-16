@@ -1,0 +1,23 @@
+.o-video-home {
+
+    &__content {
+        @include medium {
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+        }
+
+        flex-direction: column;
+        justify-content: space-between;
+
+        &>div {
+            @include medium {
+                width: 45%;
+                margin-top: var(--spaceL);
+            }
+
+            width: 100%;
+            margin-top: var(--spaceM);
+        }
+    }
+}

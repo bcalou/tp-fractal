@@ -1,0 +1,12 @@
+.l-home {
+
+    &>div {
+        margin-top: var(--spaceL);
+        margin-bottom: var(--spaceL);
+
+    }
+
+    &__chapters>div {
+        margin-bottom: var(--spaceM);
+    }
+}

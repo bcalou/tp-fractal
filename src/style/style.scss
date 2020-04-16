@@ -32,10 +32,19 @@
 @import '02-molecules/resources.scss';
 @import '02-molecules/question.scss';
 @import '02-molecules/word.scss';
+@import '02-molecules/chapter-home-title.scss';
+@import '02-molecules/image-link.scss';
+
 
 @import '03-organisms/chapter.scss';
 @import '03-organisms/chapter-part.scss';
 @import '03-organisms/header.scss';
 @import '03-organisms/footer.scss';
+@import '03-organisms/chapter-home.scss';
+@import '03-organisms/video-home.scss';
+@import '03-organisms/image-list.scss';
+
+
 
 @import '04-layouts/main.scss';
+@import '04-layouts/home.scss';

@@ -1,0 +1,28 @@
+.o-image-list {
+
+    &__content {
+        @include medium {
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        display: flex;
+        flex-wrap: wrap;
+
+        margin-top: var(--spaceM);
+
+        &>a {
+            @include medium {
+                width: 8%;
+                margin: unset;
+            }
+
+            margin-top: var(--spaceS);
+            margin-left: var(--spaceS);
+            margin-right: var(--spaceS);
+            max-width: 20%;
+
+        }
+    }
+
+}
