@@ -6,45 +6,22 @@
 @import '00-protons/misc.scss';
 @import '00-protons/spaces.scss';
 
-@import '01-atoms/card-title.scss';
-@import '01-atoms/checkmark.scss';
-@import '01-atoms/code.scss';
-@import '01-atoms/icon.scss';
-@import '01-atoms/footnote.scss';
+@import '01-atoms/button.scss';
 @import '01-atoms/image.scss';
-@import '01-atoms/letters.scss';
+@import '01-atoms/link.scss';
 @import '01-atoms/number.scss';
-@import '01-atoms/indication.scss';
-@import '01-atoms/paragraph.scss';
-@import '01-atoms/resource.scss';
+@import '01-atoms/text.scss';
 @import '01-atoms/title.scss';
-@import '01-atoms/triangle.scss';
-@import '01-atoms/video.scss';
-
-@import '02-molecules/chapter-title.scss';
-@import '02-molecules/codepen.scss';
-@import '02-molecules/codes.scss';
-@import '02-molecules/correction.scss';
-@import '02-molecules/figure.scss';
-@import '02-molecules/icon-link.scss';
-@import '02-molecules/info.scss';
-@import '02-molecules/part-title.scss';
-@import '02-molecules/resources.scss';
-@import '02-molecules/question.scss';
-@import '02-molecules/word.scss';
-@import '02-molecules/chapter-home-title.scss';
-@import '02-molecules/image-link.scss';
 
 
-@import '03-organisms/chapter.scss';
-@import '03-organisms/chapter-part.scss';
-@import '03-organisms/header.scss';
-@import '03-organisms/footer.scss';
-@import '03-organisms/chapter-home.scss';
-@import '03-organisms/video-home.scss';
-@import '03-organisms/image-list.scss';
+@import '02-molecules/article.scss';
+@import '02-molecules/footer.scss';
+@import '02-molecules/forum.scss';
+@import '02-molecules/header.scss';
+@import '02-molecules/presentation.scss';
+@import '02-molecules/introduction.scss';
 
+@import '03-organisms/listForum.scss';
+@import '03-organisms/listRessources.scss';
 
-
-@import '04-layouts/main.scss';
 @import '04-layouts/home.scss';

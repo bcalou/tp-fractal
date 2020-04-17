@@ -1,7 +1,0 @@
-.m-chapterTitle {
-  display: flex;
-
-  & > * + * {
-    margin-left: var(--spaceXS);
-  }
-}

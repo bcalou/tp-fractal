@@ -1,0 +1,40 @@
+.a-button--action {
+    width: 172px;
+    height: 49px;
+    border-radius: 8px;
+    box-shadow: 0 6px 10px 0 rgba(102, 142, 199, 0.4);
+    background-color: var(--colorButton);
+    font-family: Abel;
+    font-size: 16px;
+    padding: 15px 32px;
+    line-height: 1.31;
+    text-align: center;
+    color: var(--colorTextButton);
+}
+
+.a-button {
+    width: 172px;
+    height: 49px;
+    border-radius: 8px;
+    box-shadow: 0 6px 10px 0 rgba(102, 142, 199, 0.4);
+    font-family: Abel;
+    font-size: 16px;
+    padding: 15px 32px;
+    line-height: 1.31;
+    text-align: center;
+}
+
+.a-button--connect {
+    width: 172px;
+    height: 49px;
+    border-radius: 8px;
+    box-shadow: 0 6px 10px 0 rgba(102, 142, 199, 0.4);
+    font-family: Abel;
+    font-size: 16px;
+    padding: 15px 32px;
+    line-height: 1.31;
+    text-align: center;
+    color: #707070;
+    border: solid 1px #707070;
+    text-decoration: none;
+}
